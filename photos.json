@@ -10,8 +10,13 @@
     "url": "photos/IMG_0399.JPG"
   },
   {
-    "title": "Centipede"
-    "catagory": "Landscape"
+    "title": "Centipede",
+    "category": "Landscape",
     "url": "photos/centipede.JPG"
+  },
+  {
+    "title": "Crater Lake",
+    "category": "Landscape",
+    "url": "photos/Crator Lake 2.JPG"
   }
 ]
